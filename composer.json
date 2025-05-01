@@ -1,0 +1,23 @@
+{
+    "name": "centr/subir-archivos",
+    "autoload": {
+        "psr-4": {
+            "Centr\\SubirArchivos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DYD25",
+            "email": "dielmisud@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.0"
+    },
+
+    "config": {
+        "platform": {
+            "php": "8.0"
+        }
+    }
+}
